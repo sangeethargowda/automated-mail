@@ -7,6 +7,8 @@ const providers = [
   'yahoo.com',
   'aol.com',
   'hotmail.com',
+  'msn.com',
+  'icloud.com'
 ];
 
 function MailInput() {
